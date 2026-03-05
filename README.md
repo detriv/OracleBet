@@ -43,7 +43,7 @@
 ### 1. Clone & Open
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/oraclebet-opnet.git
+git clone https://github.com/detriv/oraclebet.git
 cd oraclebet-opnet
 
 # No build needed — pure HTML/JS
